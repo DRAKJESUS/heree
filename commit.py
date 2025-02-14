@@ -3,7 +3,7 @@ import subprocess
 from datetime import datetime, timedelta
 
 # ======= CONFIGURACIONES =======
-repositorio = 'C:/Users/Jesus/Desktop/scypt/.git'  # Cambia a tu ruta local si es diferente
+repositorio = 'C:/Users/Jesus/Desktop/scypt'  # Cambia a tu ruta local si es diferente
 archivo = 'contribuciones.txt'
 fecha_inicio = '2024-11-24'  # Fecha de inicio
 fecha_fin = '2025-02-14'     # Fecha de fin
