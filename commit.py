@@ -3,12 +3,12 @@ import subprocess
 from datetime import datetime, timedelta
 
 # ======= CONFIGURACIONES =======
-repositorio = 'C:/Users/Jesus/Desktop/scypt/.git/'  # Cambia a tu ruta local si es diferente
+repositorio = 'C:/Users/Jesus/Desktop/scypt/.git'  # Cambia a tu ruta local si es diferente
 archivo = 'contribuciones.txt'
 fecha_inicio = '2024-11-24'  # Fecha de inicio
 fecha_fin = '2025-02-14'     # Fecha de fin
 remote_name = 'origin'       # Nombre del remoto (origin por defecto)
-branch = 'main'              # Nombre de la rama (main por defecto)
+branch = 'master'              # Nombre de la rama (main por defecto)
 # ===============================
 
 # Convertir fechas a objetos datetime
